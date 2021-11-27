@@ -1,0 +1,20 @@
+{
+    "sigma": [
+        15,
+        80,
+        250
+    ],
+    "weights": [
+        1,
+        1,
+        1
+    ],
+    "alpha": 125,
+    "beta": 46,
+    "high_clip": 0.001,
+    "low_clip": 0.001,
+    "gamma": 0.6,
+    "img_path": "./tests",
+    "output_result": true,
+    "output_path": "./results"
+}
